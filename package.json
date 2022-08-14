@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "cors-proxy-postwoman",
+  "version": "1.0.0",
+  "description": "CORS proxy for PostWoman",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihugang/cors-proxy-postwoman.git"
+  },
+  "keywords": [
+    "proxy",
+    "postwoman",
+    "cors",
+    "worker",
+    "http",
+    "server"
+  ],
+  "author": "lihugang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lihugang/cors-proxy-postwoman/issues"
+  },
+  "homepage": "https://github.com/lihugang/cors-proxy-postwoman#readme"
+}
